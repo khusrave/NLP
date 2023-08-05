@@ -4,5 +4,5 @@
 
 
 
-# Link for the NLP wweks
+# Link for the NLP Weeks
 ![NLP](https://github.com/khusrave/NLP/assets/102155132/b5e0ba25-f1d5-4479-997c-61d786896234)
