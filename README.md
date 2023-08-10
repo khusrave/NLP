@@ -1,6 +1,6 @@
-# NLP
-# Link for the book "Speech and Language Processing”.
-Book link: https://www.dropbox.com/scl/fi/fs7usv1fa0sfjkc66h90c/speech_and_language_processing_ed3book.pdf?rlkey=pjv3y6vj4pdshdgi306rkfxrp&dl=0 
+# NLP 
+## References
+Speech and Language Processing Book Link: https://www.dropbox.com/scl/fi/fs7usv1fa0sfjkc66h90c/speech_and_language_processing_ed3book.pdf?rlkey=pjv3y6vj4pdshdgi306rkfxrp&dl=0 
 
 
 <!-- # Link for the Computer Vision Week evaluation
